@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+form {
+    margin-top: 1em;
+}
+
+label {
+    font-weight: bold;
+}
+
+input {
+    width: 2em;
+}
+
+button {
+    margin-left: 0.5em;
+}
+
+#feedback {
+    margin-top: 1em;
+    font-weight: bold;
+}
